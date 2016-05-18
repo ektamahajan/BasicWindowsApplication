@@ -5,6 +5,6 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Label1.Text = "Good Bye"
+        Label1.Text = "NO"
     End Sub
 End Class
