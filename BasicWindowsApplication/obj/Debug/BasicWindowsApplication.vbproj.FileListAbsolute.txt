@@ -9,3 +9,14 @@ C:\Users\Ekta-PC\Desktop\Syrasoft\BasicWindowsApplication\BasicWindowsApplicatio
 C:\Users\Ekta-PC\Desktop\Syrasoft\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.exe
 C:\Users\Ekta-PC\Desktop\Syrasoft\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.xml
 C:\Users\Ekta-PC\Desktop\Syrasoft\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.pdb
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\bin\Debug\BasicWindowsApplication.exe.config
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.exe
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.xml
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.pdb
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\bin\Debug\BasicWindowsApplication.exe
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\bin\Debug\BasicWindowsApplication.pdb
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\bin\Debug\BasicWindowsApplication.xml
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.vbprojResolveAssemblyReference.cache
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.Form1.resources
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.Resources.resources
+C:\Users\Ekta-PC\Documents\GitHub\BasicWindowsApplication\BasicWindowsApplication\obj\Debug\BasicWindowsApplication.vbproj.GenerateResource.Cache

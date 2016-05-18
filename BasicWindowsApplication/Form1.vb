@@ -1,10 +1,10 @@
 ﻿Public Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Label1.Text = "Hi"
+        Label1.Text = "Hello"
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Label1.Text = "Bye"
+        Label1.Text = "Good Bye"
     End Sub
 End Class
